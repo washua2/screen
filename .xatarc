@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://yuanhua-wang-s-workspace-bpmjnm.eu-central-1.xata.sh/db/jsm_snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
